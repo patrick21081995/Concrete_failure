@@ -8,4 +8,14 @@ The results demonstrated, using a database with 30001 training images and 9501 v
 
 ## Database
 
-The database can be downloaded via the link https://s3-api.us-geo.objectstorage.softlayer.net/cf-courses-data/CognitiveClass/DL0321EN/data/concrete_data_week4.zip to be used in any computational models, for free use.
+The database can be downloaded via the link https://s3-api.us-geo.objectstorage.softlayer.net/cf-courses-data/CognitiveClass/DL0321EN/data/concrete_data_week4.zip to be used in any computational models.
+
+### Defectless example
+
+![15058](https://user-images.githubusercontent.com/72185214/158382684-e39b4eb3-329e-4e75-a512-991da8155dac.jpg)
+
+### Defect example
+
+![15209_1](https://user-images.githubusercontent.com/72185214/158382771-ac00e3c7-a32a-4bec-9add-df2850d40a22.jpg)
+
+(database free to use)
