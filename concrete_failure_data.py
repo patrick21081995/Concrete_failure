@@ -1,4 +1,5 @@
-# ONLY with the concrete_data_week4 file () in the same directory as concrete_failure_data.py
+# ONLY with the concrete_data_week4 file (https://s3-api.us-geo.objectstorage.softlayer.net/cf-courses-data/CognitiveClass/DL0321EN/data/concrete_data_week4.zip)
+# in the same directory as concrete_failure_data.py
 
 # imports
 from keras.applications.vgg16 import VGG16, preprocess_input
@@ -27,7 +28,7 @@ model.add(Dense(128, activation = 'relu'))
 model.add(Dense(n_classes, activation = 'softmax'))
 
 # summary of the model
-model.summary()
+print(model.summary())
 
 # model compile
 model.compile(optimizer = 'adam', loss = 'categorical_crossentropy', metrics = ['accuracy'])
