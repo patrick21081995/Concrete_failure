@@ -19,3 +19,9 @@ The database can be downloaded via the link https://s3-api.us-geo.objectstorage.
 ![15209_1](https://user-images.githubusercontent.com/72185214/158382771-ac00e3c7-a32a-4bec-9add-df2850d40a22.jpg)
 
 (database free to use)
+
+Contact:
+
+- Site: https://www.patrickdosanjos.com/
+- E-mail: patrick.dosanjos@outlook.com
+- Linkedin: https://www.linkedin.com/in/patrick-queiroz-dos-anjos/
