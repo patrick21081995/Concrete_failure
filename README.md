@@ -1,6 +1,6 @@
 # Concrete defects
 
-Using a pre-trained convolutional neural network, the VGG16 (Reference: https://arxiv.org/abs/1409.1556) (Keras API: https://keras.io/api/applications/vgg/) model was established in relation to images of concrete with defects (e.g. cracks, points of discontinuity) that can occur in faults and images of concrete without surface flaws.
+Using a pre-trained convolutional neural network, the VGG16 (Reference: https://arxiv.org/abs/1409.1556) (Keras API: https://keras.io/api/applications/vgg/) model was established in relation to images of concrete with defects (e.g. cracks, points of discontinuity) that can occur in faults and images of concrete without surface defects.
 
 ## Results
 
