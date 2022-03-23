@@ -20,7 +20,7 @@ The database can be downloaded via the link https://s3-api.us-geo.objectstorage.
 
 (database free to use)
 
-Contact:
+## Contact:
 
 - Site: https://www.patrickdosanjos.com/
 - E-mail: patrick.dosanjos@outlook.com
